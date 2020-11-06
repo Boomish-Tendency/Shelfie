@@ -56,7 +56,7 @@ class Form extends Component {
         </div>
         <div>
           <button onClick={() => this.clear()}>Cancel</button>
-          </div>
+        </div>
       </div>
     );
   }
